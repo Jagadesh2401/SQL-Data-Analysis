@@ -1,0 +1,30 @@
+order_id,first_name,product_name,quantity,price
+1,Rahul,"Smartphone X",1,599.99
+1,Rahul,"Water Bottle",2,12.99
+11,Aisha,"Smartphone X",1,599.99
+11,Aisha,"Milk 1L",2,1.20
+2,David,"Laptop Pro",1,1099.00
+2,David,"T-Shirt Cotton",3,15.99
+12,Rohan,"Smartwatch S",1,149.00
+12,Rohan,"Helmet Riding",1,49.99
+3,Anita,"Wireless Earbuds",1,79.00
+3,Anita,"School Backpack",1,39.99
+4,Sophia,"4K Monitor",2,299.00
+4,Sophia,"Brown Eggs 12",5,2.10
+13,Noah,"Gaming Mouse",1,29.99
+13,Noah,"Olive Oil 1L",1,6.90
+5,James,"Bluetooth Speaker",1,49.99
+6,Ava,"Office Chair",1,159.00
+6,Ava,"Sunglasses UV",1,25.50
+14,Vikram,"Bookshelf Wooden",1,129.00
+14,Vikram,"Rice 5kg",1,4.50
+7,Karthik,"DSLR Camera",1,699.00
+7,Karthik,"Cap Unisex",2,9.99
+8,Sneha,"Tripod Stand",1,25.00
+8,Sneha,"Leather Wallet",1,29.50
+9,Sunil,"Sofa 3-Seater",1,499.00
+9,Sunil,"Bread Loaf",2,3.50
+10,Dev,"Jacket Winter",1,79.90
+10,Dev,Sneakers,1,59.00
+15,Dhoni,"Denim Jeans",2,35.50
+15,Dhoni,"Water Bottle",1,12.99

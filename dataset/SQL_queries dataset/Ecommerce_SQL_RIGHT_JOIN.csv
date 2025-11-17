@@ -1,0 +1,33 @@
+product_id,product_name,order_id
+1,"Smartphone X",1
+1,"Smartphone X",11
+2,"Laptop Pro",2
+3,"Wireless Earbuds",3
+4,"Gaming Mouse",13
+5,"Bluetooth Speaker",5
+6,"Smartwatch S",12
+7,"4K Monitor",4
+8,"DSLR Camera",7
+9,"Tripod Stand",8
+10,"USB-C Cable",NULL
+11,"Office Chair",6
+12,"Standing Desk",NULL
+13,"Bookshelf Wooden",14
+14,"Sofa 3-Seater",9
+15,"Dining Table",NULL
+16,"T-Shirt Cotton",2
+17,"Denim Jeans",15
+18,"Jacket Winter",10
+19,Sneakers,10
+20,"Cap Unisex",7
+21,"Water Bottle",1
+21,"Water Bottle",15
+22,"School Backpack",3
+23,"Sunglasses UV",6
+24,"Leather Wallet",8
+25,"Helmet Riding",12
+26,"Bread Loaf",9
+27,"Brown Eggs 12",4
+28,"Milk 1L",11
+29,"Olive Oil 1L",13
+30,"Rice 5kg",14
