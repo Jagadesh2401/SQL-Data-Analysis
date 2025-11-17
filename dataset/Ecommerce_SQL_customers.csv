@@ -1,0 +1,50 @@
+customer_id,first_name,last_name,email,city,country,created_at
+1,Rahul,Verma,rahul@example.com,Delhi,India,2024-01-05
+2,Aisha,Khan,aisha@example.com,Mumbai,India,2024-02-10
+3,John,Carter,john@example.com,"New York",USA,2024-03-15
+4,Emily,Stone,emily@example.com,London,UK,2024-04-01
+5,David,Lee,david@example.com,Sydney,Australia,2024-04-12
+6,Priya,Sharma,priya@example.com,Pune,India,2024-01-21
+7,Rohan,Singh,rohan@example.com,Delhi,India,2024-02-11
+8,Neha,Patel,neha@example.com,Ahmedabad,India,2024-03-09
+9,Suresh,Nair,suresh@example.com,Kochi,India,2024-01-29
+10,Anita,Reddy,anita@example.com,Hyderabad,India,2024-02-05
+11,Mohammed,Ali,mali@example.com,Dubai,UAE,2024-03-16
+12,Sophia,Brown,sophia@example.com,"Los Angeles",USA,2024-04-02
+13,Olivia,Taylor,olivia@example.com,Manchester,UK,2024-01-14
+14,Liam,Walker,liam@example.com,Chicago,USA,2024-02-22
+15,Noah,Adams,noah@example.com,Boston,USA,2024-03-19
+16,Mia,Green,mia@example.com,Bristol,UK,2024-01-08
+17,Charlotte,Hall,charlotte@example.com,London,UK,2024-04-01
+18,James,Harris,james@example.com,"New York",USA,2024-01-12
+19,Lucas,King,lucas@example.com,Toronto,Canada,2024-03-25
+20,Isabella,Young,isabella@example.com,Vancouver,Canada,2024-02-18
+21,Ethan,Wright,ethan@example.com,Auckland,"New Zealand",2024-02-14
+22,Ava,Scott,ava@example.com,Melbourne,Australia,2024-01-30
+23,William,Bennett,william@example.com,Sydney,Australia,2024-03-02
+24,Jay,Mehta,jay@example.com,Surat,India,2024-04-03
+25,Harsh,Gupta,harsh@example.com,Indore,India,2024-04-18
+26,Kiran,Desai,kiran@example.com,Goa,India,2024-02-25
+27,Pooja,Yadav,pooja@example.com,Jaipur,India,2024-03-10
+28,Vikram,Joshi,vikram@example.com,Lucknow,India,2024-03-14
+29,Tina,Kapoor,tina@example.com,Delhi,India,2024-02-09
+30,Karthik,Iyer,karthik@example.com,Chennai,India,2024-03-21
+31,Divya,Menon,divya@example.com,Kochi,India,2024-01-19
+32,Aditya,Bora,aditya@example.com,Guwahati,India,2024-02-23
+33,Sneha,Das,sneha@example.com,Kolkata,India,2024-04-12
+34,Farhan,Hussain,farhan@example.com,Hyderabad,India,2024-03-05
+35,Zara,Sheikh,zara@example.com,Dubai,UAE,2024-01-27
+36,Arjun,Chopra,arjun@example.com,Delhi,India,2024-01-14
+37,Meera,Pillai,meera@example.com,Kochi,India,2024-02-26
+38,Anil,Dixit,anil@example.com,Bhopal,India,2024-03-03
+39,Ritu,Sinha,ritu@example.com,Ranchi,India,2024-03-09
+40,Sunil,Kulkarni,sunil@example.com,Nagpur,India,2024-04-01
+41,Chirag,Jain,chirag@example.com,Udaipur,India,2024-04-10
+42,Nikita,Raj,nikita@example.com,Patna,India,2024-03-22
+43,Kavya,Saxena,kavya@example.com,Delhi,India,2024-02-16
+44,Bhavesh,Thakur,bhavesh@example.com,Panaji,India,2024-01-25
+45,Dev,Rana,dev@example.com,Shimla,India,2024-02-03
+46,Gopal,Mishra,gopal@example.com,Varanasi,India,2024-03-28
+47,Salman,Khan,skhan@example.com,Mumbai,India,2024-03-17
+48,Virat,Kohli,vkohli@example.com,Delhi,India,2024-01-29
+49,Rohit,Sharma,rohit@example.com,Nagpur,India,2024-02-07

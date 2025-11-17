@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_price
+1,"Smartphone X",Electronics,599.99
+2,"Laptop Pro",Electronics,1099.00
+3,"Wireless Earbuds",Electronics,79.00
+4,"Gaming Mouse",Electronics,29.99
+5,"Bluetooth Speaker",Electronics,49.99
+6,"Smartwatch S",Electronics,149.00
+7,"4K Monitor",Electronics,299.00
+8,"DSLR Camera",Electronics,699.00
+9,"Tripod Stand",Electronics,25.00
+10,"USB-C Cable",Electronics,8.99
+11,"Office Chair",Furniture,159.00
+12,"Standing Desk",Furniture,299.00
+13,"Bookshelf Wooden",Furniture,129.00
+14,"Sofa 3-Seater",Furniture,499.00
+15,"Dining Table",Furniture,699.00
+16,"T-Shirt Cotton",Clothing,15.99
+17,"Denim Jeans",Clothing,35.50
+18,"Jacket Winter",Clothing,79.90
+19,Sneakers,Clothing,59.00
+20,"Cap Unisex",Clothing,9.99
+21,"Water Bottle",Accessories,12.99
+22,"School Backpack",Accessories,39.99
+23,"Sunglasses UV",Accessories,25.50
+24,"Leather Wallet",Accessories,29.50
+25,"Helmet Riding",Accessories,49.99
+26,"Bread Loaf",Grocery,2.10
+27,"Brown Eggs 12",Grocery,3.50
+28,"Milk 1L",Grocery,1.20
+29,"Olive Oil 1L",Grocery,6.90
+30,"Rice 5kg",Grocery,4.50
